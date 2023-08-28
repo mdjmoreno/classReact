@@ -1,0 +1,8 @@
+.listComments {
+  list-style: none;
+}
+
+.listCommentsItem {
+  font-style: italic;
+  border-bottom: 1px solid #000;
+}
